@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/usr/code/HuffCompressor/utils/TimeCost.cpp
+TimeCost.h
+/home/usr/code/HuffCompressor/utils/TimeCost.h
+
+/home/usr/code/HuffCompressor/utils/TimeCost.h
+cstdio
+-
+chrono
+-
+time.h
+-
+ctime
+-
+

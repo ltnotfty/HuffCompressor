@@ -1,0 +1,37 @@
+[
+{
+  "directory": "/home/usr/code/HuffCompressor/build",
+  "command": "/usr/bin/c++  -DSPDLOG_COMPILED_LIB -I/home/usr/code/HuffCompressor/GoogleTest -I/home/usr/code/HuffCompressor/include -I/home/usr/code/HuffCompressor/utils  -g   -Wall -O2 -g -ggdb -std=gnu++17 -o CMakeFiles/HuffCompressor.dir/main.cpp.o -c /home/usr/code/HuffCompressor/main.cpp",
+  "file": "/home/usr/code/HuffCompressor/main.cpp"
+},
+{
+  "directory": "/home/usr/code/HuffCompressor/build",
+  "command": "/usr/bin/c++  -DSPDLOG_COMPILED_LIB -I/home/usr/code/HuffCompressor/GoogleTest -I/home/usr/code/HuffCompressor/include -I/home/usr/code/HuffCompressor/utils  -g   -Wall -O2 -g -ggdb -std=gnu++17 -o CMakeFiles/HuffCompressor.dir/src/BitBufferReader.cpp.o -c /home/usr/code/HuffCompressor/src/BitBufferReader.cpp",
+  "file": "/home/usr/code/HuffCompressor/src/BitBufferReader.cpp"
+},
+{
+  "directory": "/home/usr/code/HuffCompressor/build",
+  "command": "/usr/bin/c++  -DSPDLOG_COMPILED_LIB -I/home/usr/code/HuffCompressor/GoogleTest -I/home/usr/code/HuffCompressor/include -I/home/usr/code/HuffCompressor/utils  -g   -Wall -O2 -g -ggdb -std=gnu++17 -o CMakeFiles/HuffCompressor.dir/src/BitBufferWriter.cpp.o -c /home/usr/code/HuffCompressor/src/BitBufferWriter.cpp",
+  "file": "/home/usr/code/HuffCompressor/src/BitBufferWriter.cpp"
+},
+{
+  "directory": "/home/usr/code/HuffCompressor/build",
+  "command": "/usr/bin/c++  -DSPDLOG_COMPILED_LIB -I/home/usr/code/HuffCompressor/GoogleTest -I/home/usr/code/HuffCompressor/include -I/home/usr/code/HuffCompressor/utils  -g   -Wall -O2 -g -ggdb -std=gnu++17 -o CMakeFiles/HuffCompressor.dir/src/FileHelper.cpp.o -c /home/usr/code/HuffCompressor/src/FileHelper.cpp",
+  "file": "/home/usr/code/HuffCompressor/src/FileHelper.cpp"
+},
+{
+  "directory": "/home/usr/code/HuffCompressor/build",
+  "command": "/usr/bin/c++  -DSPDLOG_COMPILED_LIB -I/home/usr/code/HuffCompressor/GoogleTest -I/home/usr/code/HuffCompressor/include -I/home/usr/code/HuffCompressor/utils  -g   -Wall -O2 -g -ggdb -std=gnu++17 -o CMakeFiles/HuffCompressor.dir/src/FileHelper_unittest.cpp.o -c /home/usr/code/HuffCompressor/src/FileHelper_unittest.cpp",
+  "file": "/home/usr/code/HuffCompressor/src/FileHelper_unittest.cpp"
+},
+{
+  "directory": "/home/usr/code/HuffCompressor/build",
+  "command": "/usr/bin/c++  -DSPDLOG_COMPILED_LIB -I/home/usr/code/HuffCompressor/GoogleTest -I/home/usr/code/HuffCompressor/include -I/home/usr/code/HuffCompressor/utils  -g   -Wall -O2 -g -ggdb -std=gnu++17 -o CMakeFiles/HuffCompressor.dir/src/HuffZipper.cpp.o -c /home/usr/code/HuffCompressor/src/HuffZipper.cpp",
+  "file": "/home/usr/code/HuffCompressor/src/HuffZipper.cpp"
+},
+{
+  "directory": "/home/usr/code/HuffCompressor/build/utils",
+  "command": "/usr/bin/c++    -g   -std=gnu++17 -o CMakeFiles/utils.dir/TimeCost.cpp.o -c /home/usr/code/HuffCompressor/utils/TimeCost.cpp",
+  "file": "/home/usr/code/HuffCompressor/utils/TimeCost.cpp"
+}
+]

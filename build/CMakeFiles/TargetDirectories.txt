@@ -1,0 +1,6 @@
+/home/usr/code/HuffCompressor/build/CMakeFiles/rebuild_cache.dir
+/home/usr/code/HuffCompressor/build/CMakeFiles/edit_cache.dir
+/home/usr/code/HuffCompressor/build/CMakeFiles/HuffCompressor.dir
+/home/usr/code/HuffCompressor/build/utils/CMakeFiles/rebuild_cache.dir
+/home/usr/code/HuffCompressor/build/utils/CMakeFiles/edit_cache.dir
+/home/usr/code/HuffCompressor/build/utils/CMakeFiles/utils.dir

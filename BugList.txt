@@ -1,0 +1,3 @@
+* UINT8_MAX = 255
+* not init HuffEncodeTable
+* cmake project() put to head of cmakelist.txt
